@@ -15,6 +15,8 @@
 
 p "Enter an odd number:"
 
+p "test"
+
 
 # ~~~~~ Specs (make it do these things) ~~~~~
 #
